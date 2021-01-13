@@ -4,6 +4,6 @@
 - 💬 Ask me about software.
 - 📫 How to reach me: mb.muratbayraktar1995@gmail.com
 
-[![Murat's github stats](https://github-readme-stats.vercel.app/api?username=MuratBayraktar0&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Murat's github stats](https://github-readme-stats.vercel.app/api?username=Murat&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=MuratBayraktar0&color=brightgreen)
